@@ -1,0 +1,15 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Start": "package.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
